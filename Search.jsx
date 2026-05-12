@@ -4,8 +4,6 @@ import {
   Briefcase, BarChart2, Star, Loader2
 } from "lucide-react";
 
-// 🔑 Groq API key (Frontend ENV)
-// NOTE: Putting API keys in frontend is NOT secure.
 const GROQ_API_KEY = import.meta.env.VITE_GROQ_API_KEY;
 const GROQ_URL = your url;
 
