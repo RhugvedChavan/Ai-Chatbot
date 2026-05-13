@@ -1,6 +1,6 @@
 # Ai-Chatbot
 
-Purpose - 
+# Purpose - 
 
 1. The main purpose of developing an AI chatbot is to create an intelligent system that can interact with users in a human-like manner and provide instant support, guidance, and information.
 2. This chatbot reduces manual work, improves user experience, and provides 24/7 availability for answering questions.
