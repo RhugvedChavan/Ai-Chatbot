@@ -59,5 +59,4 @@ Tools -
 
 # Run the Project - 
 
-Npm install
-Npm run dev
+Npm install ,  Npm run dev
